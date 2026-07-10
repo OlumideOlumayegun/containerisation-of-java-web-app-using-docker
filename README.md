@@ -98,6 +98,8 @@ Before starting, ensure you have:
 
 # 📖 Deployment Workflow
 
+Detailed step-by-step deployment procedures, configuration details, and workflow documentation are available in the [Setup Guide](./Setup-Guide.md).
+
 ## 1. Clone the Repository
 
 ```bash
